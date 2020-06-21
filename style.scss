@@ -1,0 +1,39 @@
+
+body {
+    background: rgb(180, 157, 136);
+}
+
+.container {
+    background: white;
+}
+
+.carousel-inner img {
+    height: 600px;
+    // 元素自動縮放模試 object-fit
+    object-fit: cover;
+}
+
+.card img {
+    height: 300px;
+    object-fit: cover;
+}
+
+.row {
+    text-align: center;
+}
+
+.s1 {
+    margin: 2px auto;
+}
+
+.w-100 {
+    margin: 16px;
+}
+
+.col-sm-10 {
+    margin: 0 auto;
+}
+
+h3 {
+    margin: 0 auto;
+}

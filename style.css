@@ -1,0 +1,40 @@
+body {
+  background: #b49d88;
+}
+
+.container {
+  background: white;
+}
+
+.carousel-inner img {
+  height: 600px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.card img {
+  height: 300px;
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+.row {
+  text-align: center;
+}
+
+.s1 {
+  margin: 2px auto;
+}
+
+.w-100 {
+  margin: 16px;
+}
+
+.col-sm-10 {
+  margin: 0 auto;
+}
+
+h3 {
+  margin: 0 auto;
+}
+/*# sourceMappingURL=style.css.map */
